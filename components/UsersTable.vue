@@ -21,5 +21,4 @@ const props = defineProps({
     users: { type: Array, required: true }
 })
 
-console.log(props.users)
 </script>
